@@ -1,0 +1,4 @@
+com\nopcommerce\tests\HomePageTest.class
+com\nopcommerce\tests\LoginPageTest.class
+com\nopcommerce\tests\RegisterPageTest.class
+com\nopcommerce\tests\SearchPageTest.class
